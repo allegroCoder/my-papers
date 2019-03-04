@@ -13,7 +13,7 @@
 * Andrey Mokhov, Alessandro de Gennaro, Ghaith Tarawneh, Jonny Wray, Georgy Lukyanov, Sergey Mileiko, Joe Scott, Alex Yakovlev, Andrew Brown. **Language and Hardware Acceleration Backend for Graph Processing**. Published in the _Forum on Specification & Design Languages_ (FDL) conference, 2017. And as chapter of the book _Languages, Design Methods, and Tools for Electronic System Design_, Springer, 2018.
 [paper](https://github.com/allegroCoder/my-papers/blob/master/network-analysis/graphs-on-fpga.pdf)
 
-* Andrew Brown, David Thomas, Jeff Reeve, Ghaith Tarawneh, Alessandro de Gennaro, Andrey Mokhov, Matthew Naylor, Tom Kazmierski. **Distributed Event-based Computing**. Publishded in the _Parallel Computing_ (ParCo) conference, 2017. And as book chapter of the book _Parallel Computing is Everywhere_, IOS Press BV, 2018.
+* Andrew Brown, David Thomas, Jeff Reeve, Ghaith Tarawneh, Alessandro de Gennaro, Andrey Mokhov, Matthew Naylor, Tom Kazmierski. **Distributed Event-based Computing**. Published in the _Parallel Computing_ (ParCo) conference, 2017. And as book chapter of the book _Parallel Computing is Everywhere_, IOS Press BV, 2018.
 [paper](https://github.com/allegroCoder/my-papers/blob/master/network-analysis/distributed-event-based-computing.pdf)
 
 * Andrey Mokhov, Jordi Cortadella, Alessandro de Gennaro. **Process Windows**. International Conference on _Application of Concurrency to System Design_ (ACSD), 2017.

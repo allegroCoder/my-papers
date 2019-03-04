@@ -1,6 +1,6 @@
 ## Reconfigurable Asynchronous Pipelines: from Formal Models to Silicon
 
-Accepted to Design, Automation and Test in Europe (DATE) conference, 2018.
+Accepted to _Design, Automation and Test in Europe_ (DATE) conference, 2018. [paper](https://github.com/allegroCoder/my-papers/blob/master/async-model/async-pipes.pdf)
 
 ### Abstract
 
@@ -15,6 +15,8 @@ verification of reconfigurable asynchronous pipelines, and validates this approa
 
 
 ## Prototyping Resilient Processing Cores in Workcraft
+
+Accepted to 2nd International Workshop on _Resiliency in Embedded Electronic Systems_, 2017. [paper](https://github.com/allegroCoder/my-papers/blob/master/async-model/workcraft.pdf)
 
 ### Abstract
 

@@ -1,6 +1,6 @@
 ## Efficient Composition of Scenario-based Hardware Specifications
 
-Accepted to IET Computers & Digital Techniques, 2018.
+Accepted to _IET Computers & Digital Techniques_ journal, 2018. [paper](https://github.com/allegroCoder/my-papers/blob/master/behavioural-synthesis/scenario-composition.pdf)
 
 ### Abstract
 
@@ -31,7 +31,7 @@ existing methodologies that make use of behavioural synthesis.
 
 ## A Heuristic Algorithm for Deriving Compact Models of Processor Instruction Sets
 
-Accepted to Application of Concurrency to System Design (ACSD), 2015.
+Accepted to _Application of Concurrency to System Design_ (ACSD) conference, 2015. [paper](https://github.com/allegroCoder/my-papers/blob/master/behavioural-synthesis/ISA-design.pdf)
 
 ### Abstract
 
