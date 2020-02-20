@@ -1,5 +1,10 @@
 ## My research publications
 
+## 2020
+
+* Alessandro de Gennaro, Danil Sokolov, Andrey Mokhov. **Design and Implementation of Reconfigurable Asynchronous Pipelines**. _IEEE Transactions on VLSI Systems_ journal, 2020.
+[paper](https://github.com/allegroCoder/my-papers/blob/master/async-model/async-pipes-journal.pdf)
+
 ## 2018
 
 * Alessandro de Gennaro, Paulius Stankaitis, Andrey Mokhov, **Efficient Composition of Scenario-based Hardware Specifications**. _IET Computers & Digital Techniques_ (CDT) journal, 2018.

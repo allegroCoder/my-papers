@@ -1,3 +1,26 @@
+## Design and Implementation of Reconfigurable Asynchronous Pipelines 
+
+Accepted to the _IEEE Transactions on Very Large Scale Integration Systems_ journal, 2020. [paper](https://github.com/allegroCoder/my-papers/blob/master/async-model/async-pipes-journal.pdf)
+
+### Abstract
+Pipelining is a widely used approach to the design of high-throughput
+computation systems, where the slowest component is decomposed into a set of
+sequentially connected parts that are executed in parallel on successive items
+of the incoming dataflow. Such *dataflow pipelines* are often designed to
+be *dynamically reconfigurable* to process data items differently depending
+on their contents and/or to adjust to the application requirements in runtime.
+
+Reconfigurable synchronous pipelines are widely used and well studied, and are
+supported by industrial EDA tools. On the other hand, *reconfigurable
+asynchronous pipelines* received much less attention and their industrial
+adoption is low due to the lack of mature automation support. In this paper we
+present a model and a tool support for the design and verification of
+reconfigurable asynchronous pipelines. The tool is open-source and is available
+as a plugin for the *Workcraft* toolset. We validate the presented
+approach by designing and fabricating a test chip (TSMC 90nm), that demonstrates
+the benefits and costs of dynamic reconfigurability, as well as highlights the
+resilience of asynchronous pipelines.
+
 ## Reconfigurable Asynchronous Pipelines: from Formal Models to Silicon
 
 Accepted to _Design, Automation and Test in Europe_ (DATE) conference, 2018. [paper](https://github.com/allegroCoder/my-papers/blob/master/async-model/async-pipes.pdf)
